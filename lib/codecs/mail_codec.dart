@@ -39,7 +39,7 @@ abstract class MailCodec {
     'iso-8859-12': utf8, //TODO add proper character encoding support
     'iso-8859-13': utf8, //TODO add proper character encoding support
     'iso-8859-14': utf8, //TODO add proper character encoding support
-    'iso-8859-15': utf8, //TODO add proper character encoding support
+    'iso-8859-15': latin1, //TODO add proper character encoding support
     'iso-8859-16': utf8, //TODO add proper character encoding support
     'windows-1250': latin1, //TODO add proper character encoding support
     'cp1250': latin1, //TODO add proper character encoding support
